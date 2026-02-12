@@ -1,7 +1,7 @@
 # <p align="center">Hi, I'm FAB 👋</p>
 
 <p align="center">
-  <img src="PASTE_YOUR_BANNER_URL_HERE" alt="FAB Banner" width="100%">
+  <img src="banner1.jpeg" alt="FAB Banner" width="100%">
 </p>
 
 ---
