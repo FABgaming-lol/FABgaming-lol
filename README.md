@@ -1,33 +1,33 @@
-# FAB 
+# FAB
 
-**Systems Engineer | AI Automation Architect** *Specializing in scalable backend logic, autonomous agent orchestration, and distributed systems.*
-
----
-
-### 💻 Technical Proficiency
-
-- **Core Languages:** Python (Asynchronous, Microservices), JavaScript (Node.js, ESNext)
-- **Frameworks & UI:** React, Next.js, Tailwind CSS
-- **Automation & AI:** Agentic Workflows (n8n, Make), LLM Orchestration (OpenRouter, GPT-OSS)
-- **Infrastructure:** Docker, Linux Systems, CI/CD Pipelines, Home Server Management
+**AI Automation Architect | Systems Engineer**
+*Building autonomous business infrastructure through AI orchestration and modular system design.*
 
 ---
 
-### 📈 Proof of Work
+### 🛠️ Technical Focus
+- **Automation & Orchestration:** Advanced workflows in **n8n** and **Make.com**.
+- **AI Implementation:** Prompt engineering and agentic logic using **GPT-OSS 120B** and **Gemini 2.5**.
+- **Infrastructure:** System deployment via **Docker** and **Linux Home Servers**.
+- **Frontend Foundations:** Building responsive interfaces with **React** and **Tailwind CSS**.
 
-![FAB's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FABgaming-lol&show_icons=true&theme=transparent&hide_border=true&title_color=38B6FF&text_color=E6EDF3&icon_color=38B6FF)
+---
+
+### 📊 Engineering Impact
+![FAB's Stats](https://github-readme-stats.vercel.app/api?username=FABgaming-lol&show_icons=true&theme=transparent&hide_border=true&title_color=38B6FF&text_color=E6EDF3&icon_color=38B6FF)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FABgaming-lol&layout=compact&theme=transparent&hide_border=true&title_color=38B6FF&text_color=E6EDF3)
 
 ---
 
-### 🛡️ Core Principles
-
-- **Performance-First:** Writing optimized, non-blocking code for low-latency systems.
-- **Architectural Scalability:** Designing modular logic that survives production stress.
-- **Clean Documentation:** Code is read more often than it is written. I prioritize maintainability.
+### 🚀 Active Research & Projects
+- **Autonomous News Architect:** A multi-agent system that scrapes, synthesizes, and deploys daily tech insights.
+- **Internal LMS (Learning Management System):** Architecting a custom education platform for automated onboarding.
+- **Enterprise Tooling:** Building automated invoice generators and real-time weather tracking systems for storm chasers.
 
 ---
 
-### 🔍 Explore My Repositories
-*Detailed technical breakdowns and system architectures are available within each pinned project's documentation.*
+### 🎯 Core Principles
+- **Leveraging AI-Native Workflows:** Using AI to accelerate the development lifecycle from architecture to deployment.
+- **Scalable Modularity:** Designing systems where every component is replaceable and independently scalable.
+- **Transparent Logic:** Prioritizing clear system flows and robust documentation over complex, "black-box" code.
