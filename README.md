@@ -14,10 +14,15 @@
 ---
 
 ### 📊 Engineering Impact
-![FAB's Stats](https://github-readme-stats.vercel.app/api?username=FABgaming-lol&show_icons=true&theme=transparent&hide_border=true&title_color=38B6FF&text_color=E6EDF3&icon_color=38B6FF)
+### 📊 Engineering Impact
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FABgaming-lol&layout=compact&theme=transparent&hide_border=true&title_color=38B6FF&text_color=E6EDF3)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FABgaming-lol&show_icons=true&theme=transparent&hide_border=true&title_color=38B6FF&text_color=E6EDF3&icon_color=38B6FF" alt="FAB's Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FABgaming-lol&layout=compact&theme=transparent&hide_border=true&title_color=38B6FF&text_color=E6EDF3" alt="Top Languages" />
+</p>
 ---
 
 ### 🚀 Active Research & Projects
