@@ -14,7 +14,6 @@
 ---
 
 ### 📊 Engineering Impact
-### 📊 Engineering Impact
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FABgaming-lol&show_icons=true&theme=transparent&hide_border=true&title_color=38B6FF&text_color=E6EDF3&icon_color=38B6FF" alt="FAB's Stats" />
