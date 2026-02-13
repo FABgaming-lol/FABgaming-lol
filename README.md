@@ -30,4 +30,4 @@
 ---
 
 ### 🔍 Explore My Repositories
-*Detailed technical breakdowns and system architectures are available within each project's documentation.*
+*Detailed technical breakdowns and system architectures are available within each pinned project's documentation.*
