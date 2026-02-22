@@ -58,37 +58,6 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=38B6FF&center=true&vCenter=true&repeat=true&width=450&height=35&lines=%F0%9F%93%8A+Engineering+Impact;Fetching+stats...;Data+compiled+%E2%9C%93" alt="Stats Section Typing" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FABgaming-lol&show_icons=true&theme=transparent&hide_border=true&title_color=38B6FF&text_color=E6EDF3&icon_color=38B6FF&bg_color=0D1117&count_private=true&include_all_commits=true" alt="FAB's Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=FABgaming-lol&theme=transparent&hide_border=true&ring=38B6FF&fire=38B6FF&currStreakLabel=38B6FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&background=0D1117" alt="FAB's Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FABgaming-lol&layout=compact&theme=transparent&hide_border=true&title_color=38B6FF&text_color=E6EDF3&bg_color=0D1117&langs_count=8" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=FABgaming-lol&theme=react-dark&hide_border=true&bg_color=0D1117&color=38B6FF&line=38B6FF&point=FFFFFF&area=true&area_color=38B6FF" alt="Contribution Graph" />
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=38B6FF&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%F0%9F%9A%80+Active+Research+%26+Projects;Deploying+agents...;All+systems+operational+%E2%9C%93" alt="Projects Section Typing" />
   </a>
 </div>
@@ -160,7 +129,7 @@ Real-time weather tracking systems designed for storm chasers.
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=550&height=30&lines=%3E+All+stats+pulled+live+from+GitHub+API;%3E+Building+in+public+%E2%80%94+always+shipping;%3E+Thanks+for+stopping+by+%E2%80%94+FAB" alt="Footer Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=550&height=30&lines=%3E+Building+in+public+%E2%80%94+always+shipping;%3E+Thanks+for+stopping+by+%E2%80%94+FAB" alt="Footer Typing" />
   </a>
 </div>
 
