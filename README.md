@@ -65,14 +65,14 @@
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FABgaming-lol&show_icons=true&theme=transparent&hide_border=true&title_color=38B6FF&text_color=E6EDF3&icon_color=38B6FF&bg_color=0D1117" alt="FAB's Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FABgaming-lol&show_icons=true&theme=transparent&hide_border=true&title_color=38B6FF&text_color=E6EDF3&icon_color=38B6FF&bg_color=0D1117&count_private=true&include_all_commits=true" alt="FAB's Stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=FABgaming-lol&theme=transparent&hide_border=true&ring=38B6FF&fire=38B6FF&currStreakLabel=38B6FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&background=0D1117" alt="FAB's Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FABgaming-lol&layout=compact&theme=transparent&hide_border=true&title_color=38B6FF&text_color=E6EDF3&bg_color=0D1117" alt="Top Languages" />
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FABgaming-lol&layout=compact&theme=transparent&hide_border=true&title_color=38B6FF&text_color=E6EDF3&bg_color=0D1117&langs_count=8" alt="Top Languages" />
 </div>
 
 <br>
@@ -160,7 +160,7 @@ Real-time weather tracking systems designed for storm chasers.
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=550&height=30&lines=%3E+System+status%3A+All+agents+running;%3E+Uptime%3A+99.9%25;%3E+Next+deployment%3A+queued;%3E+Thanks+for+visiting+%E2%80%94+FAB" alt="Footer Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=550&height=30&lines=%3E+All+stats+pulled+live+from+GitHub+API;%3E+Building+in+public+%E2%80%94+always+shipping;%3E+Thanks+for+stopping+by+%E2%80%94+FAB" alt="Footer Typing" />
   </a>
 </div>
 
