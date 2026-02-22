@@ -16,14 +16,14 @@
 
 I design and deploy AI-native automation systems that reduce manual operations and increase execution speed.
 
-My work focuses on:
+Primary focus:
 
 - Multi-agent orchestration  
 - Workflow automation  
 - Modular architecture  
 - Production-ready infrastructure  
 
-I build systems that are:
+Systems are built to be:
 
 - Replaceable  
 - Scalable  
@@ -57,13 +57,13 @@ No fragile chains. No black-box logic.
 # 🚀 Current Projects
 
 ## 📰 Autonomous News Architect
-Multi-agent pipeline that:
+Multi-agent system that:
 - Scrapes curated sources  
 - Synthesizes structured summaries  
 - Formats clean outputs  
 - Deploys automatically  
 
-Focus: reliability, deduplication, structured data flows.
+Focus: reliability, structured data, automation resilience.
 
 ---
 
@@ -71,15 +71,15 @@ Focus: reliability, deduplication, structured data flows.
 Custom onboarding infrastructure with:
 - Automated course delivery  
 - Workflow-driven access control  
-- Internal documentation pipelines  
+- Documentation automation  
 
 ---
 
 ## 🧾 Intelligent Invoice System
 - Structured data extraction  
 - Automated invoice generation  
-- Validation and error handling layers  
-- Deployment-ready automation flows  
+- Validation layers  
+- Deployment-ready flows  
 
 ---
 
@@ -87,7 +87,7 @@ Custom onboarding infrastructure with:
 - Real-time weather ingestion  
 - Alert classification logic  
 - Modular event processing  
-- Scalable data pipeline design  
+- Scalable data pipelines  
 
 ---
 
@@ -105,10 +105,10 @@ Custom onboarding infrastructure with:
 
 # 🎯 Engineering Principles
 
-- **AI-Native by Default** — AI integrated into architecture, not bolted on  
-- **Modular First** — Every component independently replaceable  
-- **Production Over Prototype** — Systems built to survive real-world usage  
-- **Clarity > Cleverness** — Maintainability beats complexity  
+- **AI-Native by Default**  
+- **Modular First**  
+- **Production Over Prototype**  
+- **Clarity > Cleverness**
 
 ---
 
