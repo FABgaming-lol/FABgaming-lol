@@ -91,18 +91,6 @@ Custom onboarding infrastructure with:
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-gamma-azure-69.vercel.app/api?username=FABgaming-lol&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"/>
-
-<img height="170" src="https://github-readme-stats-gamma-azure-69.vercel.app/api/top-langs/?username=FABgaming-lol&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
 # 🎯 Engineering Principles
 
 - **AI-Native by Default**  
