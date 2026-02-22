@@ -12,27 +12,29 @@
 
 ---
 
-## 🧠 About
+# 🧠 About
 
-I design and deploy **AI-native automation systems** that reduce manual operations and increase execution speed.
+I design and deploy AI-native automation systems that reduce manual operations and increase execution speed.
 
-My focus:
-- Multi-agent orchestration
-- Workflow automation
-- Modular system design
-- Production-ready infrastructure
+My work focuses on:
+
+- Multi-agent orchestration  
+- Workflow automation  
+- Modular architecture  
+- Production-ready infrastructure  
 
 I build systems that are:
-- Replaceable
-- Scalable
-- Observable
-- Documented
 
-No black boxes. No fragile chains.
+- Replaceable  
+- Scalable  
+- Observable  
+- Documented  
+
+No fragile chains. No black-box logic.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Automation & Orchestration
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -52,65 +54,68 @@ No black boxes. No fragile chains.
 
 ---
 
-## 🚀 Current Projects
+# 🚀 Current Projects
 
-### 📰 Autonomous News Architect
-Multi-agent pipeline:
-- Scrapes curated sources
-- Synthesizes summaries
-- Formats structured insights
-- Deploys automatically
+## 📰 Autonomous News Architect
+Multi-agent pipeline that:
+- Scrapes curated sources  
+- Synthesizes structured summaries  
+- Formats clean outputs  
+- Deploys automatically  
 
-Focus: reliability, deduplication, structured outputs.
-
----
-
-### 🎓 Internal LMS System
-Custom onboarding and training infrastructure:
-- Automated course delivery
-- Workflow-driven access control
-- Internal documentation pipelines
+Focus: reliability, deduplication, structured data flows.
 
 ---
 
-### 🧾 Intelligent Invoice System
-- Structured data extraction
-- Automated invoice generation
-- Error validation layers
-- Deployment-ready workflow automation
+## 🎓 Internal LMS System
+Custom onboarding infrastructure with:
+- Automated course delivery  
+- Workflow-driven access control  
+- Internal documentation pipelines  
 
 ---
 
-### 🌩 Storm Tracker
-- Real-time weather ingestion
-- Alert logic system
-- Structured event classification
-- Modular data processing pipeline
+## 🧾 Intelligent Invoice System
+- Structured data extraction  
+- Automated invoice generation  
+- Validation and error handling layers  
+- Deployment-ready automation flows  
 
 ---
 
-## 📊 GitHub Analytics
+## 🌩 Storm Tracker
+- Real-time weather ingestion  
+- Alert classification logic  
+- Modular event processing  
+- Scalable data pipeline design  
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FABgaming-lol&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FABgaming-lol&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats-gamma-azure-69.vercel.app/api?username=FABgaming-lol&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+
+<img height="170" src="https://github-readme-stats-gamma-azure-69.vercel.app/api/top-langs/?username=FABgaming-lol&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
 
-## 🎯 Engineering Principles
+# 🎯 Engineering Principles
 
-- **AI-Native by Default** — AI is integrated into architecture, not bolted on.
-- **Modular First** — Every system component can be replaced independently.
-- **Production Over Prototype** — Systems are built to survive real-world use.
-- **Clarity > Cleverness** — Maintainability beats complexity.
+- **AI-Native by Default** — AI integrated into architecture, not bolted on  
+- **Modular First** — Every component independently replaceable  
+- **Production Over Prototype** — Systems built to survive real-world usage  
+- **Clarity > Cleverness** — Maintainability beats complexity  
 
 ---
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=550&height=30&lines=%3E+Shipping+consistently.;%3E+Building+in+public.;%3E+Systems+over+hype." />
 </div>
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38B6FF,100:0D1117&height=120&section=footer"/>
