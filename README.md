@@ -1,109 +1,105 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:38B6FF&height=200&section=header&text=FAB&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Automation%20Architect%20%7C%20Systems%20Engineer&descSize=20&descAlignY=55&descColor=B0C4DE"/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B6FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Designing+autonomous+business+systems;AI+orchestration+%26+modular+architecture;Automation+that+scales+without+fragility;Build+once.+Deploy+everywhere." />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=FAB&fontSize=70&fontColor=0&fontAlign=50&fontAlignY=70&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=radical"  />
 </div>
 
-<br>
+###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FABgaming-lol&style=for-the-badge&color=38B6FF&label=PROFILE+VIEWS"/>
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
----
+###
 
-# 🧠 About
+<h1 align="center">Hey there! 👋</h1>
 
-I design and deploy AI-native automation systems that reduce manual operations and increase execution speed.
+###
 
-Primary focus:
+<h3 align="left">🔎About Me</h3>
 
-- Multi-agent orchestration  
-- Workflow automation  
-- Modular architecture  
-- Production-ready infrastructure  
+###
 
-Systems are built to be:
+<h4 align="left">I am a developer focused on the intersection of automated intelligence and immersive infrastructure. I build systems that are designed to be scalable, self-healing, and structurally sound.<br><br>Currently, I am expanding my expertise by diving deep into the world of Cybersecurity to ensure that the systems I build are as secure as they are efficient.</h4>
 
-- Replaceable  
-- Scalable  
-- Observable  
-- Documented  
+###
 
-No fragile chains. No black-box logic.
+<h3 align="left">⚔️My skills:</h3>
 
----
+###
 
-# 🛠 Tech Stack
+<p align="left">➯ AIOps & Automation: I specialize in intelligent system monitoring and automated remediation. I build "zero-touch" infrastructure that resolves issues before they reach the user.<br><br>    ➯ Roblox Systems Architecture: I design high-concurrency backends and core frameworks. My focus is on custom networking, data persistence, and seamless server-client synchronization.<br><br>    ➯ Cybersecurity (In Progress): I am currently mastering threat modeling and defensive programming. I believe security should be part of the foundation, not an afterthought.<br><br>    ➯ UI/UX Design & Engineering: I bridge the gap between complex data and intuitive design. I build high-performance interfaces that ensure a friction-free experience for every user.</p>
 
-### Automation & Orchestration
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+###
 
-### AI Systems
-![GPT-OSS](https://img.shields.io/badge/GPT--OSS_120B-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.5-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+<h3 align="left">🛠 Languages:</h3>
 
-### Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+###
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
 
----
+###
 
-# 🚀 Current Projects
+<h3 align="left">🔥   My Stats :</h3>
 
-## 📰 Autonomous News Architect
-Multi-agent system that:
-- Scrapes curated sources  
-- Synthesizes structured summaries  
-- Formats clean outputs  
-- Deploys automatically  
-
-Focus: reliability, structured data, automation resilience.
-
----
-
-## 🎓 Internal LMS System
-Custom onboarding infrastructure with:
-- Automated course delivery  
-- Workflow-driven access control  
-- Documentation automation  
-
----
-
-## 🧾 Intelligent Invoice System
-- Structured data extraction  
-- Automated invoice generation  
-- Validation layers  
-- Deployment-ready flows  
-
----
-
-## 🌩 Storm Tracker
-- Real-time weather ingestion  
-- Alert classification logic  
-- Modular event processing  
-- Scalable data pipelines  
-
----
-
-# 🎯 Engineering Principles
-
-- **AI-Native by Default**  
-- **Modular First**  
-- **Production Over Prototype**  
-- **Clarity > Cleverness**
-
----
+###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=550&height=30&lines=%3E+Shipping+consistently.;%3E+Building+in+public.;%3E+Systems+over+hype." />
+  <img src="https://github-readme-stats.vercel.app/api?username=FABgaming-lol&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FABgaming-lol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<br>
+###
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38B6FF,100:0D1117&height=120&section=footer"/>
+<h3 align="left">💻Tech Stack:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+</div>
+
+###
+
+<h3 align="left">Socials:</h3>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
+
+###
